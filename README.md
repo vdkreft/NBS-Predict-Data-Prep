@@ -9,4 +9,4 @@ This repository in conjunction with @eminSerin's NBS Predict allows for the conv
 # Preperation before Running
 You must have the following:
 - Directory with .npy connectivity matrices
-- CSV files with participant_id, diagnosis, age, and sex
+- TSV files with participant_id, diagnosis, age, and sex
